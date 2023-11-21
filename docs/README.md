@@ -1,4 +1,4 @@
-# Awesome Compression
+# Awesome Compression {docsify-ignore-all}
 
 &emsp;&emsp;本项目总结了模型压缩相关的基础知识
 - 第1章 
