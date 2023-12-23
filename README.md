@@ -49,7 +49,7 @@
 ### 各章节负责人
 
 - [陈玉立](https://github.com/ironartisan) (Datawhale成员-北京邮电大学研究生)
-- [姜蔚蔚](https://github.com/jwwthu) (北京邮电大学助理教授)
+- [姜蔚蔚](https://jwwthu.github.io) (北京邮电大学助理教授)
 - [施怡惠]()(北京邮电大学研究生)
 
 
