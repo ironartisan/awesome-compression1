@@ -1,4 +1,4 @@
-# Awesome Compression {docsify-ignore-all}
+# Awesome Compression
 
 ## 项目简介
 
@@ -6,7 +6,7 @@
 
 ## 项目意义
 
-&emsp;&emsp;目前网上关于模型压缩的相关资料比较驳杂，初学者很难找到一个简单优质的中文入门教程来学习。本项目借鉴[MIT 6.5940 TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)，提供模型压缩的入门教程，降低模型压缩的学习门槛。在教程中，您将了解不同的压缩方法，通过实践和示例，学习如何应用这些方法来压缩深度学习模型，以满足实际应用需求。
+&emsp;&emsp;目前网上关于模型压缩的相关资料比较驳杂，初学者很难找到一个简单优质的的中文入门教程来学习。本项目借鉴[MIT 6.5940 TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)，提供模型压缩的入门教程，降低模型压缩的学习门槛。在教程中，您将了解不同的压缩方法，通过实践和示例，学习如何应用这些方法来压缩深度学习模型，以满足实际应用需求。
 
 
 ## 项目受众
@@ -25,7 +25,7 @@
 
 ## 项目规划
 
-### 目录(非最终版，前6章保留，后面的章节应该会调整)
+### 目录（前6章保留，后面的章节后续可能会调整）
 
 - 第1章 介绍
 - 第2章 深度学习基础
@@ -48,6 +48,11 @@
 
 ### 各章节负责人
 
+- [陈玉立](https://github.com/ironartisan) (Datawhale成员-北京邮电大学研究生)
+- [姜蔚蔚](https://jwwthu.github.io) (北京邮电大学助理教授)
+- [施怡惠]()(北京邮电大学研究生)
+
+
 ### 各章节预估完成日期
 
 - Step 1: 搭建内容框架并确认各章节负责人（1个月）；
@@ -56,6 +61,7 @@
 
 ## 环境安装
 ### Node.js版本
+
 Node v16
 
 ### 安装docsify
@@ -70,7 +76,6 @@ docsify serve ./docs
 ```
 
 ## 课程知识思维导图
-
 
 
 
