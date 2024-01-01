@@ -1,8 +1,9 @@
 # Awesome Compression
 
+
 ## 项目简介
 
-&emsp;&emsp;随着ChatGPT的出圈，大语言模型层出不穷，并展现出非凡的能力，可以有效地解决各种复杂问题。然而，这些模型通常需要大量的计算资源和内存，导致运行时资源消耗较高，限制了其在某些场景下的应用，让很多研究者望而却步。本项目使用通俗易懂的语言介绍模型的剪枝、量化、知识蒸馏等压缩方法，让更多的小白能更快了解到模型压缩技术。
+&emsp;&emsp;随着ChatGPT的出圈，大语言模型层出不穷，并展现出非凡的能力，可以有效地解决各种问题。然而，这些模型通常需要大量的计算资源和内存，导致运行时资源消耗较高，限制了其在某些场景下的应用，让很多研究者望而却步。本项目使用通俗易懂的语言介绍模型的剪枝、量化、知识蒸馏等压缩方法，让更多的小白能更快了解到模型压缩技术。
 
 ## 项目意义
 
@@ -23,8 +24,6 @@
 - 提供通俗易懂的理论内容来科普模型压缩技术；
 - 提供实践代码，结合实际场景帮助学习者更好地理解理论内容。
 
-## 项目规划
-
 ### 目录
 
 - 第1章 引言
@@ -35,19 +34,31 @@
 - 第6章 知识蒸馏
 - 第7章 项目实践
 
-
-### 各章节负责人
-
-- [陈玉立](https://github.com/ironartisan) (Datawhale成员-北京邮电大学研究生)
-- [姜蔚蔚](https://jwwthu.github.io) (北京邮电大学助理教授)
-- [施怡惠]()(北京邮电大学研究生)
+## 课程知识思维导图
 
 
-### 各章节预估完成日期
+## Roadmap
 
 - Step 1: 搭建内容框架并确认各章节负责人（1个月）；
 - Step 2: 对章节内容进行撰写（3个月）；
 - Step 3: 对整体内容进行修订与完善（1个月）。
+
+*注：说明当前项目的规划，并将每个任务通过 Issue 形式进行对外进行发布。*
+
+## 参与贡献
+
+- 如果你想参与到项目中来欢迎查看项目的 [Issue]() 查看没有被分配的任务。
+- 如果你发现了一些问题，欢迎在 [Issue]() 中进行反馈🐛。
+- 如果你对本项目感兴趣想要参与进来可以通过 [Discussion]() 进行交流💬。
+
+如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
+
+## 贡献者名单
+
+| 姓名 | 职责 | 简介 |
+| :----| :---- | :---- |
+| [陈玉立](https://github.com/ironartisan) | 项目负责人 | Datawhale成员-北京邮电大学研究生 |
+| [姜蔚蔚](https://jwwthu.github.io) | 第x章贡献者 | 北京邮电大学助理教授 |
 
 ## 环境安装
 ### Node.js版本
@@ -65,9 +76,15 @@ npm i docsify-cli -g
 docsify serve ./docs
 ```
 
-## 课程知识思维导图
+## 关注我们
 
+<div align=center>
+<p>扫描下方二维码关注公众号：Datawhale</p>
+<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
+</div>
 
+## LICENSE
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
-
+*注：默认使用CC 4.0协议，也可根据自身项目情况选用其他协议*
